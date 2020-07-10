@@ -1,5 +1,8 @@
-### Hi there 👋
+### Muriel J Lima ⚡
 
+Estudante de desenvolvimento desde 2015. Atuei em processos de documentação de software, melhoria e correção de código.  
+  
+Atualmente buscando aprender sobre Arquitetura de software e Advanced Programming.
 <!--
 **MurielLima/MurielLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
