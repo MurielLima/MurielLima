@@ -1,4 +1,4 @@
-### Muriel J Lima ⚡
+# Muriel J Lima ⚡
 
 Estudante de desenvolvimento desde 2015. Atuei em processos de documentação de software, melhoria e correção de código.  
   
