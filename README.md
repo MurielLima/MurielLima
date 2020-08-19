@@ -2,7 +2,7 @@
 
 Estudante de desenvolvimento desde 2015. Atuei em processos de documentação de software, melhoria e correção de código.  
   
-Atualmente buscando aprender sobre Arquitetura de software e Advanced Programming.
+Atualmente buscando aprender sobre SOLID, TDD e Arquitetura de software.
 <!--
 **MurielLima/MurielLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
